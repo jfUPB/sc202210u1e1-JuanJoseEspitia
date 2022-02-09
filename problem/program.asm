@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Juan José Espitia Gómez
+// 000419497
+// juan.espitia@upb.edu.co
 (START)
     @START
     0;JMP
